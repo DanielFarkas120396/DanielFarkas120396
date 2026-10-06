@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello! 👋
+
+I'm Daniel, based in Belgium.
+
+I pick up a new hobby every couple of months, and I love building things, physical or digital, that make everyday life a bit easier or more fun.
+
+I have an engineering degree and a data science certificate, and I enjoy playing with web and app projects on the side.
+
+**Something I'm proud of:** a game my friends and I played as kids, which I rebuilt and adapted for a close friend's bachelor party.
+
+📫 Want to follow along or build something together? reach out at : pro.daniel.farkas@gmail.com
 
 <!--
 **DanielFarkas120396/DanielFarkas120396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
