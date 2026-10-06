@@ -6,7 +6,7 @@ I pick up a new hobby every couple of months, and I love building things, physic
 
 I have an engineering degree and a data science certificate, and I enjoy playing with web and app projects on the side.
 
-**Something I'm proud of:** a game my friends and I played as kids, which I rebuilt and adapted for a close friend's bachelor party.
+**Something I'm proud of:** a game my friends and I played as teenagers, which I rebuilt and adapted for a close friend's bachelor party.
 
 📫 Want to follow along or build something together? reach out at : pro.daniel.farkas@gmail.com
 
